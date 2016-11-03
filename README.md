@@ -1,4 +1,3 @@
 # hello-world
-Ideas and other basic stuff.
 
-Repository for generally anything that doesn't belong in any specific project.
+I'm Robin or Ronin. Intersted in producing films and game-development, I lack technical experience but am willing to learn.
